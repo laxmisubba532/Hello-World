@@ -1,2 +1,2 @@
 # Hello-World
-Learn about GitHub
+The hello world is all about Learning about how to crearte the repository in GitHub.
